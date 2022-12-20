@@ -1,0 +1,10 @@
+categories: 
+  - Technology: 
+    - AI
+    - AR
+    - OS 
+  - Science: 
+    - Math
+  - Life: 
+    - Daily
+    - Skill
